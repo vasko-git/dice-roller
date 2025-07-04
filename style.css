@@ -1,0 +1,23 @@
+#dice-image {
+    color: white;
+    width: 195px;  
+    height: 180px;
+    margin: 20px auto; 
+}
+
+body {
+    text-align: center;
+    margin-top: 450px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(232, 193, 86);
+    background-color: white;
+}
+
+#get-dice {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding-bottom: 1px;
+    border: none;
+}
